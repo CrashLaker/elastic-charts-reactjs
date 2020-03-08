@@ -11,6 +11,6 @@ npm run start
 ```
 
 ### Doc
-https://elastic.github.io/eui/#/elastic-charts/creating-charts
+https://elastic.github.io/eui/#/elastic-charts/creating-charts  
 https://elastic.github.io/elastic-charts/?path=/story/line-chart--stacked-with-axis-and-legend
 
