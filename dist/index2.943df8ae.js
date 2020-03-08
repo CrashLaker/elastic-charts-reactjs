@@ -70049,7 +70049,7 @@ exports.KIBANA_METRICS = {
     uptime: 243193903
   }
 };
-},{}],"src/index.js":[function(require,module,exports) {
+},{}],"src/index2.js":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -70121,7 +70121,6 @@ var example = function example() {
 };
 
 exports.example = example;
-(0, _reactDom.render)(example(), document.getElementById("app"));
 },{"react":"node_modules/react/index.js","react-dom":"node_modules/react-dom/index.js","@elastic/charts":"node_modules/@elastic/charts/dist/index.js","@elastic/charts/dist/theme_light.css":"node_modules/@elastic/charts/dist/theme_light.css","@elastic/charts/dist/utils/data_samples/test_dataset_kibana":"node_modules/@elastic/charts/dist/utils/data_samples/test_dataset_kibana.js"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
@@ -70150,7 +70149,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "44847" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "46434" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
@@ -70326,5 +70325,5 @@ function hmrAcceptRun(bundle, id) {
     return true;
   }
 }
-},{}]},{},["node_modules/parcel-bundler/src/builtins/hmr-runtime.js","src/index.js"], null)
-//# sourceMappingURL=/src.a2b27638.js.map
+},{}]},{},["node_modules/parcel-bundler/src/builtins/hmr-runtime.js","src/index2.js"], null)
+//# sourceMappingURL=/index2.943df8ae.js.map
