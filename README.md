@@ -1,6 +1,6 @@
 ### Fig
 
-![]https://raw.githubusercontent.com/CrashLaker/elastic-charts-reactjs/master/thumb.png)
+![](https://raw.githubusercontent.com/CrashLaker/elastic-charts-reactjs/master/thumb.png)
 
 
 ### Run
